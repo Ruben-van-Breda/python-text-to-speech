@@ -1,2 +1,5 @@
-# python-text-to-speech
-Simple python Text-to-Speech program
+```bash
+python -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
